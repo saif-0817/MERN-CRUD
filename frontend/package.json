@@ -14,6 +14,7 @@
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
+    "cors": "^2.8.5",
     "framer-motion": "^11.5.4",
     "freecodecamp": "file:..",
     "react": "^18.3.1",
